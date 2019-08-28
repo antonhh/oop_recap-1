@@ -1,6 +1,6 @@
 package kea;
-
 public class Machine  {
+    // Super klassen
 
     // field el. data
     private boolean isOn;

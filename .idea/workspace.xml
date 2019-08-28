@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cff0b30c-9dbd-4af6-b20c-58bd5f0240af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kea/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kea/Machine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kea/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Q3GaCVHJ5qjeWey8PqtWssApqU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -109,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566991927605</updated>
-      <workItem from="1566991932162" duration="1550000" />
+      <workItem from="1566991932162" duration="2945000" />
     </task>
     <servers />
   </component>
