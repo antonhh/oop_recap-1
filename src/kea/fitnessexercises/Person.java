@@ -22,6 +22,8 @@ public class Person {
     }
 
     public void setCpr(long cpr) {
+        // identificer at det er her der skal være kode
         this.cpr = cpr;
+
     }
 }

@@ -7,12 +7,12 @@ public class Main {
 
     public static void main(String[] args) {
 	    // Arv
-        Machine m = new Machine();
+       /* Machine m = new Machine();
         System.out.println(m);
         m.turnOn();
         System.out.println(m);
         m.turnOff();
-        System.out.println(m);
+        System.out.println(m); */
 
         /*
 
@@ -34,7 +34,7 @@ public class Main {
             ma.turnOn();
 
             if (ma instanceof Printer){
-                ((Printer) ma).print("Hej", 4);
+                ((Printer) ma).print("Hej", 10);
             }
 
         }

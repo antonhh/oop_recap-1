@@ -15,16 +15,15 @@ public class Machine  {
     public void turnOff(){
         // slukker for maskinen
         this.isOn = false;
+        System.exit(0);
     }
 
     @Override
     public String toString() {
-
         if (this.isOn){
             return "Machine is on";
         } else {
             return "Machine is off";
         }
-
     }
 }
