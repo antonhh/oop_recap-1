@@ -13,8 +13,9 @@ public class ArrayListTRepository implements ICrud {
     }
 
     @Override
-    public List<Person> read() {
-        return personList;
+    public Person read(String first, String last) {
+
+        return new Person("Claus");
     }
 
     @Override
